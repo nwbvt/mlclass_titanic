@@ -1,0 +1,4 @@
+.ipynb*
+*.zip
+*.pyc
+__MACOSX/*
